@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1093374226158",
+    "project_id": "recsolar-6b40e",
+    "storage_bucket": "recsolar-6b40e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093374226158:android:a288d05e7c6be0c0350dff",
+        "android_client_info": {
+          "package_name": "com.example.recsolar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtCyYuDD0nIp-Umz8Hjm6DTIejOXnsZYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
